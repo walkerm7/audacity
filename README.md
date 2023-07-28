@@ -1,7 +1,17 @@
 # Audacity
 
-
 [**Audacity**](https://www.audacityteam.org) is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
+
+<center><img src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" alt="Audacity Logo" width="25%"></center>
+
+## Table of Contents
+
+- [Notable Features](#notable-features)
+- [Users](#users)
+- [Developers](#developers)
+- [License](#license)
+
+## Notable Features
 
 - **Recording** from any real or virtual audio device that is available to the host system.
 - **Export / Import** a wide range of audio formats, extensible with FFmpeg.
@@ -20,6 +30,9 @@ For end users, the latest Windows and macOS release version of Audacity is avail
 Help with using Audacity is available [here](https://audacityteam.org/help/).
 
 ## Developers
+
+For most instructions or information that a developer/contributor might need see the [Developer Docs](https://github.com/walkerm7/audacity/blob/master/DEVELOPER_DOCS.md) which containins useful links and information.
+
 Build instructions are available [here](https://github.com/audacity/audacity/blob/master/BUILDING.md).
 
 Additional development resources may be found [here](https://audacity.gitbook.io/dev/).
